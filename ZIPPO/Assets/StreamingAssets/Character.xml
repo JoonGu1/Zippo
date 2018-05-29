@@ -1,0 +1,3 @@
+<CharacterList>
+  <Character CHARACTER_ID="1" CHARACTER_NAME="김준구" TYPE="PC" LEVEL="1" EXP="1000" HP="2000" MP="1000" PATK="15.5" MATK="20.2" PDEF="33.2" MDEF="55.1" MSPEED="3" STR="10" MAGIC="90" CON="300" INTEL="200" DEX="50" />
+</CharacterList>
